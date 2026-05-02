@@ -30,10 +30,11 @@ I am a passionate and detail-oriented engineering student with a strong interest
 
 ---
 
-## 📫 How to reach me?
-- 📧 Email: bhuvana261103@gmail.com  
-- 🔗 LinkedIn: https://linkedin.com/in/bhuvaneshwari-v-  
-- 💻 GitHub: https://github.com/Bhuvana-sketch  
+## A Bit About Me
+🐈 I'm cat person, have one cat
+🍵 I'm a coffee person
+🎴 Into anime — Demon Slayer is a favorite
+🧱 I like building designs that are simple, useful, and easy to understand
 
 ---
 
