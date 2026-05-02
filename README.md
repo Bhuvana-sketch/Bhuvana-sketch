@@ -1,16 +1,40 @@
 ## Hi there 👋
 
-<!--
-**Bhuvana-sketch/Bhuvana-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#I'm Bhuvaneshwari V 
 
-Here are some ideas to get you started:
+🎓 Final Year Engineering Student  
+💻 Aspiring Frontend / Full Stack Developer  
+🎨 UI/UX Enthusiast | Creative Thinker  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I am a passionate and detail-oriented engineering student with a strong interest in building user-friendly and real-world web applications. I enjoy combining creativity with technology to design and develop clean, efficient solutions.
+
+---
+
+## 🚀 What am I currently working on? 
+- 🔹 AI-Powered Chat App  
+- 🔹 Improving my React & UI/UX skills
+- 🔹 Building Responsive UI/UX Designs using Figma & Tailwind CSS
+- 🔹 Improving React Performance & Component Design  
+ 
+
+---
+
+## 🛠️ Tools & Technologies
+- 💻 Frontend: HTML, CSS, JavaScript, React  
+- ⚙️ Backend: Node.js, Express.js  
+- 🗄️ Database: MySQL, MongoDB  
+- 🔧 Tools: Git, GitHub, VS Code  
+- 🎨 Design: Figma (Basics)  
+
+---
+
+## 📫 How to reach me?
+- 📧 Email: bhuvana261103@gmail.com  
+- 🔗 LinkedIn: https://linkedin.com/in/bhuvaneshwari-v-  
+- 💻 GitHub: https://github.com/Bhuvana-sketch  
+
+---
+
+✨ *Always learning, building, and improving to achieve my goals in tech.*
