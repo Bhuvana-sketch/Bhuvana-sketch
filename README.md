@@ -13,10 +13,10 @@ I am a passionate and detail-oriented engineering student with a strong interest
 ---
 
 ## 🚀 What am I currently working on? 
-- 🔹 AI-Powered Chat App  
-- 🔹 Improving my React & UI/UX skills
-- 🔹 Building Responsive UI/UX Designs using Figma & Tailwind CSS
-- 🔹 Improving React Performance & Component Design  
+-  AI-Powered Chat App  
+-  Improving my React & UI/UX skills
+-  Building Responsive UI/UX Designs using Figma & Tailwind CSS
+-  Improving React Performance & Component Design  
  
 
 ---
