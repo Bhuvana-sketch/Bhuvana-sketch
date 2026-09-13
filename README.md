@@ -143,22 +143,6 @@ const Bhuvana = {
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,vscode,postman&theme=dark" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bhuvana-sketch&theme=nord&hide_border=false&include_all_commits=true&count_private=true&border_color=7dd3fc&title_color=7dd3fc&text_color=cdd6f4&icon_color=7dd3fc" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvana-sketch&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_color=7dd3fc&title_color=7dd3fc&text_color=cdd6f4" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Bhuvana-sketch&theme=nord&hide_border=false&border=7dd3fc&stroke=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc" />
-</p>
-
----
-
 
 ## 🤝 Let's Connect
 
