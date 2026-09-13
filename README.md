@@ -55,7 +55,7 @@ const Bhuvana = {
 
   certifications: "Job simulations: Walmart Global Tech · JPMorgan Chase · Deloitte",
   status:         "🟢 Actively seeking first full-time role in Software Dev or Data Analytics",
-  openTo:         ["MNC roles in Bengaluru", "Full Stack Development", "Data Analytics", "ML Engineering"],
+  openTo:         ["MNC roles in Bengaluru", "Full Stack Development", "Data Analytics", "ML Engineering", "SDE"],
   location:       "Mysuru → Bengaluru, Karnataka 🇮🇳",
 };
 ```
