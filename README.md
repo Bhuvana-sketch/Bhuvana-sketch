@@ -29,14 +29,19 @@ const Bhuvana = {
   education:  "B.E. Information Science Engineering — VVIET, Mysuru (VTU) | CGPA 8.9 | 2026 Batch",
 
   stack: {
-    languages:  ["Java", "Python", "JavaScript", "TypeScript", "C", "C++", "SQL"],
-    frontend:   ["React", "Angular", "TailwindCSS", "HTML5", "CSS3"],
-    backend:    ["Node.js", "Express", "Socket.IO", "REST APIs"],
-    databases:  ["MongoDB", "MySQL", "PostgreSQL", "Firebase", "SQLite"],
-    ml_ai:      ["Scikit-learn", "TensorFlow", "Keras", "OpenCV", "MediaPipe", "Pandas", "NumPy"],
-    cloud:      ["AWS", "Azure", "Google Cloud"],
-    devtools:   ["Git", "GitHub", "VS Code", "Jupyter", "Power BI", "Postman"],
-  },
+  languages: ["Java", "Python", "JavaScript", "TypeScript", "C", "C++", "SQL"],
+  frontend: ["React.js", "HTML5", "CSS3"],
+  backend: ["Node.js", "Express.js", "REST APIs", "Socket.IO"],
+  databases: ["MongoDB", "MySQL", "SQL Server"],
+  tools: ["Git", "GitHub", "Azure", "Linux", "Postman", "Chrome DevTools"],
+  practices: [
+    "Problem Solving",
+    "Agile Development",
+    "Code Reviews",
+    "API Integration",
+    "Web Accessibility"
+  ]
+},
 
   internships: [
     "Java Full Stack Developer Trainee @ KodNest",
@@ -123,37 +128,64 @@ const Bhuvana = {
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp&theme=dark" />
 </p>
 
-**Frontend**
+### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,angular,tailwind,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
 </p>
 
-**Backend & Databases**
+### ⚙️ Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,sqlite,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 </p>
-
-**AI / ML**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,keras&theme=dark" />
+  <img src="https://img.shields.io/badge/REST%20APIs-025E8C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io" />
 </p>
 
-**Cloud & Dev Tools**
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,git,github,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 </p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### 🧰 Tools & Practices
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+### 📊 Data Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+### ♿ Accessibility
+
+<p>
+  <img src="https://img.shields.io/badge/WCAG%202.x-Accessibility-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ARIA-Web%20Accessibility-6A1B9A?style=for-the-badge" />
+</p>
 
 ## 🤝 Let's Connect
 
