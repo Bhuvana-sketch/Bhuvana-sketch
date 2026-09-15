@@ -64,6 +64,20 @@ const Bhuvana = {
 
 ## 🚀 Featured Projects
 
+### 🚨 ICCC Incident Management System
+> Full-stack incident tracking platform with secure auth and live map-based visualization
+
+| Layer | Technology |
+|---|---|
+| Backend | Node.js · Express.js |
+| Database | MongoDB |
+| Auth | JWT · bcrypt |
+| Frontend | Leaflet.js (map viz) · HTML · CSS · JavaScript |
+| APIs | REST — incident creation, tracking, status updates |
+| QA | Lighthouse accessibility audit — contrast fixes, ARIA labels, keyboard nav |
+
+🔗 [View Code](https://github.com/Bhuvana-sketch/ICCC_SYSTEM)
+
 ### 🗨️ Real-Time Chat Application
 > Live messaging app with room-based chat and instant updates
 
@@ -83,8 +97,6 @@ const Bhuvana = {
 ### 🫀 Heart Disease Prediction
 > ML model comparing KNN, Decision Tree & Random Forest on UCI Heart Disease dataset
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhuvana-sketch&repo=Predicting-Heart-Disease&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=cdd6f4)](https://github.com/Bhuvana-sketch/Predicting-Heart-Disease)
-
 | Layer | Technology |
 |---|---|
 | Language | Python |
@@ -98,8 +110,6 @@ const Bhuvana = {
 
 ### 🖐️ Air Canvas
 > Draw in the air using hand gestures — no mouse, no keyboard
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Bhuvana-sketch&repo=Aircanvasproject&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=cdd6f4)](https://github.com/Bhuvana-sketch/Aircanvasproject)
 
 | Layer | Technology |
 |---|---|
