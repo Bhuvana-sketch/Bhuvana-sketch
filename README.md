@@ -155,22 +155,6 @@ const Bhuvana = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bhuvana-sketch&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhuvana-sketch&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&bg_color=2e3440&hide_border=false&border_color=7dd3fc" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
