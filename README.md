@@ -25,7 +25,7 @@
 ```typescript
 const Bhuvana = {
   name:       "Bhuvaneshwari V",
-  title:      "Full Stack Developer & Data Analytics Fresher",
+  title: "Aspiring Software Engineer | Full Stack Developer",
   education:  "B.E. Information Science Engineering — VVIET, Mysuru (VTU) | CGPA 8.9 | 2026 Batch",
 
   stack: {
@@ -59,8 +59,8 @@ const Bhuvana = {
   ],
 
   certifications: "Job simulations: Walmart Global Tech · JPMorgan Chase · Deloitte",
-  status:         "🟢 Actively seeking first full-time role in Software Dev or Data Analytics",
-  openTo:         ["MNC roles in Bengaluru", "Full Stack Development", "Data Analytics", "ML Engineering"],
+  status: "🟢 Actively seeking Software Engineer & Full Stack Developer opportunities",
+  openTo: ["Software Development Engineer (SDE)", "Full Stack Development"],
   location:       "Mysuru → Bengaluru, Karnataka 🇮🇳",
 };
 ```
